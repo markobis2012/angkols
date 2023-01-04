@@ -1,3 +1,3 @@
 # Ankols SI System
 
-Sales and Inventory System for Angkols
+Sales and Inventory System for Angkols.
